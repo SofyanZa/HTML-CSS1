@@ -1,0 +1,135 @@
+body {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(189, 189, 189);
+    border-width: 3px;
+    border: solid black;
+
+}
+
+h1 {
+    background-color: mediumaquamarine;
+    color : white;
+    text-align: center;
+    block-size: 70px;
+}
+
+h1 span { 
+ font-size: 2em;
+}
+
+h2 {
+    color:mediumseagreen;
+    text-align: center;
+    font-weight: bold;
+}
+
+h3 {
+    font-style: italic;
+    text-align: center;
+}
+
+
+h4 {
+    color:mediumseagreen;
+    font-weight: bold;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h5  {
+    font-style: italic;
+    text-align: center;
+}
+    
+
+#div {
+    border: black;
+    border-width: 1px;
+}
+
+#Italic {
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+}
+
+#text {
+    margin: 1em 1em;
+    text-align: center;
+}
+
+body { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span.GrasFondJaune {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+span.ItaliqueBarré {
+    font-style: italic;
+    text-decoration: overline;    
+
+}
+
+div.normal {
+    font-style: italic;
+    margin: 1.5em 1em;
+}
+
+div.important {
+    background-color: palegoldenrod;
+    text-align: center;
+
+}
+
+span.PluGros {
+    font-size: 10px;
+}
+
+div.cadet {
+   background-color: rgb(154, 201, 202);
+   color: rgb(154, 201, 202);
+   block-size: 20px; 
+}
+
+span.noir {
+    color: black;
+    font-size: 5px;
+    font-style: italic;
+}
+
+div.lastblock {
+    background-color: mediumseagreen;
+    color: white;
+    text-align: center;
+    
+}
+
+div.FondBlanc {
+    background-color: white;
+    padding: 1em;
+}
+
+div.block2 {
+    background-color: white;
+    text-align: center;
+}
+
+
+.titre3 {
+    text-align: center;
+    color:mediumseagreen;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+#img {
+    border: thick;color: black;
+    margin: 2em 4em;
+}
